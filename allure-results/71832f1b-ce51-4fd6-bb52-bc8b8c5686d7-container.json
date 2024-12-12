@@ -1,0 +1,1 @@
+{"uuid":"71832f1b-ce51-4fd6-bb52-bc8b8c5686d7","name":"TC13_SubscribeTest.quit","children":["d4c0b30b-21dc-45a2-a138-bbcb5fae407a"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733878527009,"stop":1733878527009}],"start":1733878527008,"stop":1733878527009}

@@ -1,0 +1,1 @@
+{"uuid":"91099dfe-9b9f-4c9f-80fa-bfb727e68a93","name":"TC04_DeleteAccTest.quit","children":["47a18427-9506-4dfe-b7c5-52d5a6a31d02"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733616700522,"stop":1733616700640}],"start":1733616700521,"stop":1733616700640}

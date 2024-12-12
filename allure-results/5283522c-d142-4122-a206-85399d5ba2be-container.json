@@ -1,0 +1,1 @@
+{"uuid":"5283522c-d142-4122-a206-85399d5ba2be","name":"TC03_NewAccountInfoTest.quit","children":["42fed1bb-c79b-42b3-a7d9-e2d0e1316895"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733615385614,"stop":1733615385780}],"start":1733615385614,"stop":1733615385780}

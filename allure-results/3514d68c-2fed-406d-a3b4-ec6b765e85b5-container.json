@@ -1,0 +1,1 @@
+{"uuid":"3514d68c-2fed-406d-a3b4-ec6b765e85b5","name":"TC12_SearchTest.Setup","children":["d11c8eb5-72e4-4622-b3c2-5973c067502f"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733877362598,"stop":1733877364643}],"afters":[],"start":1733877362598,"stop":1733877364643}

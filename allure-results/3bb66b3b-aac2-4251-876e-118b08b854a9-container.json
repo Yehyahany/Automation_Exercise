@@ -1,0 +1,1 @@
+{"uuid":"3bb66b3b-aac2-4251-876e-118b08b854a9","name":"TC12_SearchTest.quit","children":["95475071-72a1-4c1d-9c91-f7da43ba6518"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733877412204,"stop":1733877412205}],"start":1733877412204,"stop":1733877412205}

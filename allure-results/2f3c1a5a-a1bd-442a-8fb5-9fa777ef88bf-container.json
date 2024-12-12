@@ -1,0 +1,1 @@
+{"uuid":"2f3c1a5a-a1bd-442a-8fb5-9fa777ef88bf","name":"TC02_SignUpTest.Setup","children":["211f37f1-9d66-4670-9b9a-6b0ebfe2e01a"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733613415896,"stop":1733613431458}],"afters":[],"start":1733613415896,"stop":1733613431459}

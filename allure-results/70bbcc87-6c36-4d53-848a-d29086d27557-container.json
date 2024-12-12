@@ -1,0 +1,1 @@
+{"uuid":"70bbcc87-6c36-4d53-848a-d29086d27557","name":"TC10_OpenTestCasesTest.quit","children":["f1aad590-00b6-4d25-bf41-74d5f327f6e0"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733782916908,"stop":1733782917006}],"start":1733782916908,"stop":1733782917006}

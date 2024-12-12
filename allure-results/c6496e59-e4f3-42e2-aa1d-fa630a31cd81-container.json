@@ -1,0 +1,1 @@
+{"uuid":"c6496e59-e4f3-42e2-aa1d-fa630a31cd81","name":"TC11_VerifyAllProductsTest.quit","children":["b0bb5e11-a930-40c5-a97f-65a5de1e7443"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733875588103,"stop":1733875588201}],"start":1733875588102,"stop":1733875588201}

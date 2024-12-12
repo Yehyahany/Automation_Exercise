@@ -1,0 +1,1 @@
+{"uuid":"55118ede-707c-4e09-80f8-b8869fb0e268","name":"TC10_OpenTestCasesTest.Setup","children":["58d1c9bc-5d07-49ff-b0ce-330af2110a14"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733783215762,"stop":1733783217817}],"afters":[],"start":1733783215762,"stop":1733783217817}

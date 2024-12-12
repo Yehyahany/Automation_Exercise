@@ -1,0 +1,1 @@
+{"uuid":"8cd3f78e-6c72-466f-930e-1f2a9385a6f6","name":"TC14_SubscribeInCartTest.Setup","children":["73b75ad7-f455-4867-99e3-5a330014bc6c"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733991082011,"stop":1733991093300}],"afters":[],"start":1733991082010,"stop":1733991093300}

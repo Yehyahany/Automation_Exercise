@@ -1,0 +1,1 @@
+{"uuid":"2dda59d7-1a26-4276-85c2-ecd27473f204","name":"TC08_ExistingEmailTest.quit","children":["d6e724c6-ed84-4b17-9562-865feea3156c"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733631122719,"stop":1733631122815}],"start":1733631122719,"stop":1733631122815}

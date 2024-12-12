@@ -1,0 +1,1 @@
+{"uuid":"8642efce-b39f-4090-b114-c3e0e0367ff2","name":"TC12_SearchTest.quit","children":["02730dd6-4cfd-4f15-b300-90f208fbbde6"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733876636431,"stop":1733876636431}],"start":1733876636431,"stop":1733876636431}

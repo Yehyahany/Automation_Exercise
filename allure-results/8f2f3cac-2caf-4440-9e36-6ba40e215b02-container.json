@@ -1,0 +1,1 @@
+{"uuid":"8f2f3cac-2caf-4440-9e36-6ba40e215b02","name":"TC05_ValidLoginTest.Setup","children":["dd278264-cadc-4169-a1e2-1801dcef04e9"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733629043374,"stop":1733629055061}],"afters":[],"start":1733629043373,"stop":1733629055062}

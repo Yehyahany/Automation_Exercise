@@ -1,0 +1,1 @@
+{"uuid":"424cf669-9df3-4d83-b6aa-7591a726a19e","name":"TC05_ValidLoginTest.quit","children":["d343d5eb-efc8-4c42-95ef-91d5ae8f3862"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733617926634,"stop":1733617926748}],"start":1733617926633,"stop":1733617926748}
